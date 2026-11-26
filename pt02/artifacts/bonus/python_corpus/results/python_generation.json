@@ -1,0 +1,123 @@
+{
+  "corpus": "Django 5.2",
+  "model": "TinyTransformer",
+  "training_steps": 2000,
+  "seed": 42,
+  "max_new_tokens": 100,
+  "runs": [
+    {
+      "prompt": "def ",
+      "mode": "greedy",
+      "temperature": 0.0,
+      "max_new_tokens": 100,
+      "text": "def get_db_prep_value(self, connection):\n        if not self.connection.mysql_is_mariadb:\n            return self.connection.mysql_is_mariadb\n        return self.connection.mysql_version >= (8, 3, 3 3 and (3, 3)\n\n    def get_db_prep_value(self, value):\n        return value\n\n    def",
+      "syntax_correct": false,
+      "syntax_error": "'(' was never closed (<unknown>, line 4)",
+      "newlines": 8,
+      "indented_lines": 6,
+      "replacement_characters": 0
+    },
+    {
+      "prompt": "def ",
+      "mode": "temperature_0.8",
+      "temperature": 0.8,
+      "max_new_tokens": 100,
+      "text": "def _from_q(  # out fields for receivers for list in filters) not in sync_receivers:\n            # Decing are collected oumpic)\n            async def sync_receivers(sync_receivers, async_receivers, async_receivers):\n                responses.append(\n                    **responses, [sender] for receiver in ",
+      "syntax_correct": false,
+      "syntax_error": "invalid syntax (<unknown>, line 3)",
+      "newlines": 4,
+      "indented_lines": 4,
+      "replacement_characters": 0
+    },
+    {
+      "prompt": "class ",
+      "mode": "greedy",
+      "temperature": 0.0,
+      "max_new_tokens": 100,
+      "text": "class MultiValue(cls.__name__, **kwargs)\n        return super().check(**kwargs)\n\n    def check(self, **kwargs):\n        return super().check(**kwargs)\n\n    def check(self, **kwargs):\n        return super().check(**kwargs)\n\n    def check(self, **kwargs):\n        return super().check(**kwargs)\n\n    def check(self,",
+      "syntax_correct": false,
+      "syntax_error": "expected ':' (<unknown>, line 1)",
+      "newlines": 12,
+      "indented_lines": 8,
+      "replacement_characters": 0
+    },
+    {
+      "prompt": "class ",
+      "mode": "temperature_0.8",
+      "temperature": 0.8,
+      "max_new_tokens": 100,
+      "text": "class the default function import a datetime argument of a datetime part of the given\n    datetime variables for the field.\n    \"\"\"\n\n    def __init__(\n        self,\n        verbose_name=None,\n        pervarname=None,\n        fields=None,\n        db_table=None,\n        verbose_name=\"sites\": apps.remote_field.auto_created,\n        if",
+      "syntax_correct": false,
+      "syntax_error": "unterminated triple-quoted string literal (detected at line 12) (<unknown>, line 3)",
+      "newlines": 11,
+      "indented_lines": 10,
+      "replacement_characters": 0
+    },
+    {
+      "prompt": "def calculate_sum(a, b):\n    ",
+      "mode": "greedy",
+      "temperature": 0.0,
+      "max_new_tokens": 100,
+      "text": "def calculate_sum(a, b):\n    \"\"\"\n    Return the string of the given string of the string of the string to the string\n    time format for the given date format syntax,\n       will use the date format format syntax,\n       which format format syntax,\n       uses.format('format'format', ' ",
+      "syntax_correct": false,
+      "syntax_error": "unterminated triple-quoted string literal (detected at line 7) (<unknown>, line 2)",
+      "newlines": 5,
+      "indented_lines": 5,
+      "replacement_characters": 0
+    },
+    {
+      "prompt": "def calculate_sum(a, b):\n    ",
+      "mode": "temperature_0.8",
+      "temperature": 0.8,
+      "max_new_tokens": 100,
+      "text": "def calculate_sum(a, b):\n    \"\"\"\n    Return the given time-strict of the code to the deprecation name.\n    \"\"\"\n\n    def __init__(self, *args, **kwargs):\n        self.setup_kwargs = databases\n        super().check(cls.check + if not self.checked_storages else not self.storages.check(checks)\n",
+      "syntax_correct": false,
+      "syntax_error": "invalid syntax (<unknown>, line 8)",
+      "newlines": 7,
+      "indented_lines": 5,
+      "replacement_characters": 0
+    },
+    {
+      "prompt": "import ",
+      "mode": "greedy",
+      "temperature": 0.0,
+      "max_new_tokens": 100,
+      "text": "import apps\nfrom django.utils.translation import gettext_lazy as _\nfrom django.utils.translation import gettext_lazy as _\nfrom django.utils.translation import gettext as _\nfrom django.utils.translation import gettext as _\nfrom django.utils.translation import gettext as _\nfrom django.utils.",
+      "syntax_correct": false,
+      "syntax_error": "invalid syntax (<unknown>, line 7)",
+      "newlines": 6,
+      "indented_lines": 0,
+      "replacement_characters": 0
+    },
+    {
+      "prompt": "import ",
+      "mode": "temperature_0.8",
+      "temperature": 0.8,
+      "max_new_tokens": 100,
+      "text": "import Logjin  # Kept silently for all apps filters to all\n    # transforms.\n    for domain in domains:\n        if user not in settings.MIMEError():\n            user = self.storage.path.exists()\n            location = storage.path.isdir(path_info.py)\n        # If ",
+      "syntax_correct": false,
+      "syntax_error": "unexpected indent (<unknown>, line 3)",
+      "newlines": 6,
+      "indented_lines": 6,
+      "replacement_characters": 0
+    }
+  ],
+  "summary": [
+    {
+      "mode": "greedy",
+      "samples": 4,
+      "valid_syntax": 0,
+      "invalid_syntax": 4,
+      "newlines": 31,
+      "indented_lines": 19
+    },
+    {
+      "mode": "temperature_0.8",
+      "samples": 4,
+      "valid_syntax": 0,
+      "invalid_syntax": 4,
+      "newlines": 28,
+      "indented_lines": 25
+    }
+  ]
+}

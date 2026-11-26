@@ -25,3 +25,10 @@ part-time/lectures/*/*.pptx
 
 # инструменты лектора и ассистента, см. tools/README.md
 tools/
+
+!pt02/artifacts/bonus/scaling_64.csv
+!pt02/artifacts/bonus/scaling_128.csv
+!pt02/artifacts/bonus/scaling_256.csv
+!pt02/artifacts/bonus/scaling_summary.csv
+!pt02/artifacts/bonus/python_comparison_summary.csv
+!pt02/artifacts/bonus/python_corpus/results/train_curve.csv

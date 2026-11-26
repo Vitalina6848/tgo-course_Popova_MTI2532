@@ -1,0 +1,19 @@
+{
+  "corpus": "Django 5.2",
+  "vocab_size": 1756,
+  "d_model": 128,
+  "n_layers": 4,
+  "n_heads": 4,
+  "d_ff": 512,
+  "context": 128,
+  "n_params": 1261020,
+  "steps": 2000,
+  "batch": 32,
+  "lr": 0.001,
+  "seed": 42,
+  "train_tokens": 949846,
+  "val_tokens": 123693,
+  "bpe_merges": 1500,
+  "train_minutes": 0.8598955602666668,
+  "device": "cuda"
+}

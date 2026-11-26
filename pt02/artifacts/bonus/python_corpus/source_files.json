@@ -1,0 +1,1602 @@
+[
+  {
+    "file": "django/contrib/sites/models.py",
+    "bytes": 3696
+  },
+  {
+    "file": "django/middleware/gzip.py",
+    "bytes": 2946
+  },
+  {
+    "file": "django/core/management/commands/diffsettings.py",
+    "bytes": 3555
+  },
+  {
+    "file": "django/core/asgi.py",
+    "bytes": 387
+  },
+  {
+    "file": "django/conf/locale/es/formats.py",
+    "bytes": 979
+  },
+  {
+    "file": "django/contrib/gis/management/commands/ogrinspect.py",
+    "bytes": 6072
+  },
+  {
+    "file": "django/contrib/gis/db/backends/base/features.py",
+    "bytes": 3719
+  },
+  {
+    "file": "django/contrib/postgres/fields/citext.py",
+    "bytes": 1364
+  },
+  {
+    "file": "django/contrib/auth/password_validation.py",
+    "bytes": 9519
+  },
+  {
+    "file": "django/core/management/commands/squashmigrations.py",
+    "bytes": 10883
+  },
+  {
+    "file": "django/contrib/gis/geos/base.py",
+    "bytes": 182
+  },
+  {
+    "file": "django/forms/__init__.py",
+    "bytes": 369
+  },
+  {
+    "file": "django/contrib/postgres/fields/jsonb.py",
+    "bytes": 407
+  },
+  {
+    "file": "django/core/files/locks.py",
+    "bytes": 3615
+  },
+  {
+    "file": "django/db/models/fields/__init__.py",
+    "bytes": 98731
+  },
+  {
+    "file": "django/views/decorators/common.py",
+    "bytes": 740
+  },
+  {
+    "file": "django/db/migrations/recorder.py",
+    "bytes": 3828
+  },
+  {
+    "file": "django/contrib/auth/context_processors.py",
+    "bytes": 1912
+  },
+  {
+    "file": "django/contrib/gis/db/backends/postgis/models.py",
+    "bytes": 2003
+  },
+  {
+    "file": "django/contrib/admin/tests.py",
+    "bytes": 8560
+  },
+  {
+    "file": "django/template/smartif.py",
+    "bytes": 6411
+  },
+  {
+    "file": "django/contrib/gis/forms/fields.py",
+    "bytes": 4609
+  },
+  {
+    "file": "django/db/backends/postgresql/creation.py",
+    "bytes": 3887
+  },
+  {
+    "file": "django/db/backends/oracle/client.py",
+    "bytes": 785
+  },
+  {
+    "file": "django/contrib/gis/utils/ogrinspect.py",
+    "bytes": 9171
+  },
+  {
+    "file": "django/contrib/auth/management/commands/changepassword.py",
+    "bytes": 2687
+  },
+  {
+    "file": "django/core/checks/database.py",
+    "bytes": 342
+  },
+  {
+    "file": "django/core/checks/registry.py",
+    "bytes": 3483
+  },
+  {
+    "file": "django/templatetags/static.py",
+    "bytes": 4731
+  },
+  {
+    "file": "django/contrib/gis/shortcuts.py",
+    "bytes": 1028
+  },
+  {
+    "file": "django/contrib/postgres/lookups.py",
+    "bytes": 1992
+  },
+  {
+    "file": "django/core/checks/files.py",
+    "bytes": 523
+  },
+  {
+    "file": "django/core/checks/messages.py",
+    "bytes": 2242
+  },
+  {
+    "file": "django/contrib/postgres/aggregates/mixins.py",
+    "bytes": 2336
+  },
+  {
+    "file": "django/contrib/gis/geos/prototypes/errcheck.py",
+    "bytes": 2789
+  },
+  {
+    "file": "django/db/backends/base/client.py",
+    "bytes": 938
+  },
+  {
+    "file": "django/contrib/flatpages/middleware.py",
+    "bytes": 785
+  },
+  {
+    "file": "django/contrib/gis/db/backends/oracle/adapter.py",
+    "bytes": 2067
+  },
+  {
+    "file": "django/db/models/functions/text.py",
+    "bytes": 11529
+  },
+  {
+    "file": "django/contrib/gis/utils/layermapping.py",
+    "bytes": 29040
+  },
+  {
+    "file": "django/template/backends/utils.py",
+    "bytes": 425
+  },
+  {
+    "file": "django/core/signals.py",
+    "bytes": 152
+  },
+  {
+    "file": "django/contrib/redirects/middleware.py",
+    "bytes": 1922
+  },
+  {
+    "file": "django/contrib/gis/geos/prototypes/prepared.py",
+    "bytes": 1176
+  },
+  {
+    "file": "django/contrib/redirects/models.py",
+    "bytes": 1084
+  },
+  {
+    "file": "django/templatetags/tz.py",
+    "bytes": 5358
+  },
+  {
+    "file": "django/db/transaction.py",
+    "bytes": 12507
+  },
+  {
+    "file": "django/contrib/gis/geos/prototypes/misc.py",
+    "bytes": 1168
+  },
+  {
+    "file": "django/conf/locale/nn/formats.py",
+    "bytes": 1553
+  },
+  {
+    "file": "django/template/backends/jinja2.py",
+    "bytes": 4037
+  },
+  {
+    "file": "django/contrib/sessions/exceptions.py",
+    "bytes": 360
+  },
+  {
+    "file": "django/contrib/auth/migrations/0005_alter_user_last_login_null.py",
+    "bytes": 411
+  },
+  {
+    "file": "django/core/checks/async_checks.py",
+    "bytes": 404
+  },
+  {
+    "file": "django/contrib/gis/gdal/raster/band.py",
+    "bytes": 8344
+  },
+  {
+    "file": "django/conf/locale/he/formats.py",
+    "bytes": 713
+  },
+  {
+    "file": "django/contrib/gis/views.py",
+    "bytes": 715
+  },
+  {
+    "file": "django/core/management/commands/inspectdb.py",
+    "bytes": 17309
+  },
+  {
+    "file": "django/views/generic/detail.py",
+    "bytes": 7023
+  },
+  {
+    "file": "django/contrib/sessions/migrations/0001_initial.py",
+    "bytes": 1149
+  },
+  {
+    "file": "django/template/loaders/cached.py",
+    "bytes": 3717
+  },
+  {
+    "file": "django/core/cache/backends/memcached.py",
+    "bytes": 6777
+  },
+  {
+    "file": "django/test/testcases.py",
+    "bytes": 68422
+  },
+  {
+    "file": "django/db/backends/utils.py",
+    "bytes": 11138
+  },
+  {
+    "file": "django/conf/locale/de_CH/formats.py",
+    "bytes": 1378
+  },
+  {
+    "file": "django/conf/locale/en_IE/formats.py",
+    "bytes": 1485
+  },
+  {
+    "file": "django/contrib/gis/gdal/raster/const.py",
+    "bytes": 3284
+  },
+  {
+    "file": "django/db/backends/postgresql/client.py",
+    "bytes": 2045
+  },
+  {
+    "file": "django/contrib/gis/db/backends/oracle/introspection.py",
+    "bytes": 1940
+  },
+  {
+    "file": "django/contrib/gis/db/models/aggregates.py",
+    "bytes": 3148
+  },
+  {
+    "file": "django/db/models/fields/composite.py",
+    "bytes": 5732
+  },
+  {
+    "file": "django/contrib/gis/measure.py",
+    "bytes": 12574
+  },
+  {
+    "file": "django/db/models/sql/datastructures.py",
+    "bytes": 8272
+  },
+  {
+    "file": "django/db/backends/mysql/base.py",
+    "bytes": 16865
+  },
+  {
+    "file": "django/urls/converters.py",
+    "bytes": 1783
+  },
+  {
+    "file": "django/db/backends/postgresql/base.py",
+    "bytes": 23487
+  },
+  {
+    "file": "django/contrib/auth/validators.py",
+    "bytes": 723
+  },
+  {
+    "file": "django/db/models/functions/datetime.py",
+    "bytes": 13615
+  },
+  {
+    "file": "django/conf/locale/de/formats.py",
+    "bytes": 997
+  },
+  {
+    "file": "django/contrib/contenttypes/migrations/0001_initial.py",
+    "bytes": 1435
+  },
+  {
+    "file": "django/contrib/admin/templatetags/base.py",
+    "bytes": 1466
+  },
+  {
+    "file": "django/contrib/gis/db/backends/base/models.py",
+    "bytes": 4010
+  },
+  {
+    "file": "django/contrib/postgres/serializers.py",
+    "bytes": 436
+  },
+  {
+    "file": "django/contrib/auth/migrations/0010_alter_group_name_max_length.py",
+    "bytes": 379
+  },
+  {
+    "file": "django/contrib/auth/tokens.py",
+    "bytes": 4329
+  },
+  {
+    "file": "django/contrib/gis/db/backends/oracle/features.py",
+    "bytes": 1022
+  },
+  {
+    "file": "django/db/migrations/executor.py",
+    "bytes": 19039
+  },
+  {
+    "file": "django/contrib/admin/templatetags/admin_modify.py",
+    "bytes": 4979
+  },
+  {
+    "file": "django/contrib/messages/storage/cookie.py",
+    "bytes": 8679
+  },
+  {
+    "file": "django/db/models/sql/query.py",
+    "bytes": 118952
+  },
+  {
+    "file": "django/contrib/gis/geos/__init__.py",
+    "bytes": 662
+  },
+  {
+    "file": "django/db/models/functions/comparison.py",
+    "bytes": 6811
+  },
+  {
+    "file": "django/core/management/commands/createcachetable.py",
+    "bytes": 4657
+  },
+  {
+    "file": "django/utils/timezone.py",
+    "bytes": 7296
+  },
+  {
+    "file": "django/db/models/expressions.py",
+    "bytes": 73718
+  },
+  {
+    "file": "django/core/serializers/base.py",
+    "bytes": 12632
+  },
+  {
+    "file": "django/db/backends/oracle/functions.py",
+    "bytes": 813
+  },
+  {
+    "file": "django/db/models/fields/tuple_lookups.py",
+    "bytes": 13012
+  },
+  {
+    "file": "django/db/backends/sqlite3/client.py",
+    "bytes": 322
+  },
+  {
+    "file": "django/conf/locale/km/formats.py",
+    "bytes": 751
+  },
+  {
+    "file": "django/conf/locale/es_CO/formats.py",
+    "bytes": 692
+  },
+  {
+    "file": "django/db/models/constraints.py",
+    "bytes": 29734
+  },
+  {
+    "file": "django/views/decorators/gzip.py",
+    "bytes": 254
+  },
+  {
+    "file": "django/contrib/gis/db/backends/postgis/operations.py",
+    "bytes": 16577
+  },
+  {
+    "file": "django/contrib/sessions/middleware.py",
+    "bytes": 3484
+  },
+  {
+    "file": "django/core/cache/__init__.py",
+    "bytes": 1930
+  },
+  {
+    "file": "django/contrib/staticfiles/management/commands/collectstatic.py",
+    "bytes": 15106
+  },
+  {
+    "file": "django/contrib/postgres/constraints.py",
+    "bytes": 9087
+  },
+  {
+    "file": "django/contrib/flatpages/templatetags/flatpages.py",
+    "bytes": 3553
+  },
+  {
+    "file": "django/utils/log.py",
+    "bytes": 8187
+  },
+  {
+    "file": "django/contrib/postgres/utils.py",
+    "bytes": 1188
+  },
+  {
+    "file": "django/template/engine.py",
+    "bytes": 7774
+  },
+  {
+    "file": "django/db/backends/sqlite3/_functions.py",
+    "bytes": 14560
+  },
+  {
+    "file": "django/contrib/gis/db/models/functions.py",
+    "bytes": 19607
+  },
+  {
+    "file": "django/contrib/staticfiles/urls.py",
+    "bytes": 499
+  },
+  {
+    "file": "django/db/models/sql/where.py",
+    "bytes": 12318
+  },
+  {
+    "file": "django/contrib/messages/test.py",
+    "bytes": 422
+  },
+  {
+    "file": "django/contrib/admin/decorators.py",
+    "bytes": 3482
+  },
+  {
+    "file": "django/utils/tree.py",
+    "bytes": 4395
+  },
+  {
+    "file": "django/contrib/postgres/fields/array.py",
+    "bytes": 12631
+  },
+  {
+    "file": "django/conf/locale/en_CA/formats.py",
+    "bytes": 1167
+  },
+  {
+    "file": "django/contrib/gis/forms/__init__.py",
+    "bytes": 319
+  },
+  {
+    "file": "django/utils/duration.py",
+    "bytes": 1231
+  },
+  {
+    "file": "django/db/backends/mysql/client.py",
+    "bytes": 2989
+  },
+  {
+    "file": "django/contrib/admin/models.py",
+    "bytes": 8501
+  },
+  {
+    "file": "django/contrib/sessions/management/commands/clearsessions.py",
+    "bytes": 662
+  },
+  {
+    "file": "django/contrib/gis/gdal/prototypes/srs.py",
+    "bytes": 3678
+  },
+  {
+    "file": "django/conf/locale/da/formats.py",
+    "bytes": 877
+  },
+  {
+    "file": "django/contrib/sites/middleware.py",
+    "bytes": 310
+  },
+  {
+    "file": "django/core/checks/compatibility/django_4_0.py",
+    "bytes": 658
+  },
+  {
+    "file": "django/conf/locale/et/formats.py",
+    "bytes": 708
+  },
+  {
+    "file": "django/db/migrations/autodetector.py",
+    "bytes": 86244
+  },
+  {
+    "file": "django/contrib/auth/management/__init__.py",
+    "bytes": 5392
+  },
+  {
+    "file": "django/core/management/commands/sqlflush.py",
+    "bytes": 1032
+  },
+  {
+    "file": "django/db/models/fields/related.py",
+    "bytes": 79038
+  },
+  {
+    "file": "django/contrib/admin/templatetags/log.py",
+    "bytes": 2051
+  },
+  {
+    "file": "django/conf/locale/bn/formats.py",
+    "bytes": 965
+  },
+  {
+    "file": "django/contrib/sessions/backends/db.py",
+    "bytes": 6908
+  },
+  {
+    "file": "django/contrib/gis/feeds.py",
+    "bytes": 5996
+  },
+  {
+    "file": "django/conf/locale/az/formats.py",
+    "bytes": 1088
+  },
+  {
+    "file": "django/contrib/auth/migrations/0008_alter_user_username_max_length.py",
+    "bytes": 815
+  },
+  {
+    "file": "django/db/backends/sqlite3/features.py",
+    "bytes": 6776
+  },
+  {
+    "file": "django/db/models/fields/related_lookups.py",
+    "bytes": 6077
+  },
+  {
+    "file": "django/core/management/utils.py",
+    "bytes": 5637
+  },
+  {
+    "file": "django/template/response.py",
+    "bytes": 5585
+  },
+  {
+    "file": "django/urls/__init__.py",
+    "bytes": 1080
+  },
+  {
+    "file": "django/db/migrations/operations/base.py",
+    "bytes": 5563
+  },
+  {
+    "file": "django/contrib/admin/templatetags/admin_urls.py",
+    "bytes": 2039
+  },
+  {
+    "file": "django/contrib/messages/constants.py",
+    "bytes": 313
+  },
+  {
+    "file": "django/db/backends/postgresql/schema.py",
+    "bytes": 14750
+  },
+  {
+    "file": "django/utils/safestring.py",
+    "bytes": 2179
+  },
+  {
+    "file": "django/utils/version.py",
+    "bytes": 3738
+  },
+  {
+    "file": "django/template/backends/dummy.py",
+    "bytes": 1752
+  },
+  {
+    "file": "django/test/utils.py",
+    "bytes": 32703
+  },
+  {
+    "file": "django/http/request.py",
+    "bytes": 27525
+  },
+  {
+    "file": "django/db/models/functions/mixins.py",
+    "bytes": 2383
+  },
+  {
+    "file": "django/core/management/color.py",
+    "bytes": 3169
+  },
+  {
+    "file": "django/contrib/redirects/migrations/0002_alter_redirect_new_path_help_text.py",
+    "bytes": 636
+  },
+  {
+    "file": "django/utils/dates.py",
+    "bytes": 2180
+  },
+  {
+    "file": "django/contrib/staticfiles/management/commands/findstatic.py",
+    "bytes": 1644
+  },
+  {
+    "file": "django/contrib/sites/migrations/0001_initial.py",
+    "bytes": 1362
+  },
+  {
+    "file": "django/core/cache/backends/redis.py",
+    "bytes": 8011
+  },
+  {
+    "file": "django/utils/module_loading.py",
+    "bytes": 3821
+  },
+  {
+    "file": "django/core/management/commands/makemessages.py",
+    "bytes": 28696
+  },
+  {
+    "file": "django/utils/hashable.py",
+    "bytes": 739
+  },
+  {
+    "file": "django/db/backends/mysql/compiler.py",
+    "bytes": 3095
+  },
+  {
+    "file": "django/contrib/gis/db/backends/spatialite/features.py",
+    "bytes": 877
+  },
+  {
+    "file": "django/contrib/admin/exceptions.py",
+    "bytes": 508
+  },
+  {
+    "file": "django/test/__init__.py",
+    "bytes": 835
+  },
+  {
+    "file": "django/conf/locale/zh_Hans/formats.py",
+    "bytes": 1599
+  },
+  {
+    "file": "django/contrib/contenttypes/checks.py",
+    "bytes": 1269
+  },
+  {
+    "file": "django/db/migrations/graph.py",
+    "bytes": 13056
+  },
+  {
+    "file": "django/contrib/sites/apps.py",
+    "bytes": 563
+  },
+  {
+    "file": "django/db/backends/mysql/schema.py",
+    "bytes": 11240
+  },
+  {
+    "file": "django/utils/feedgenerator.py",
+    "bytes": 18090
+  },
+  {
+    "file": "django/db/models/functions/window.py",
+    "bytes": 2842
+  },
+  {
+    "file": "django/core/management/commands/sendtestemail.py",
+    "bytes": 1519
+  },
+  {
+    "file": "django/contrib/gis/db/models/lookups.py",
+    "bytes": 11798
+  },
+  {
+    "file": "django/db/migrations/operations/fields.py",
+    "bytes": 12901
+  },
+  {
+    "file": "django/core/management/base.py",
+    "bytes": 24772
+  },
+  {
+    "file": "django/db/models/functions/math.py",
+    "bytes": 6141
+  },
+  {
+    "file": "django/contrib/admin/helpers.py",
+    "bytes": 18621
+  },
+  {
+    "file": "django/contrib/admin/migrations/0003_logentry_add_action_flag_choices.py",
+    "bytes": 539
+  },
+  {
+    "file": "django/contrib/syndication/views.py",
+    "bytes": 9378
+  },
+  {
+    "file": "django/db/backends/mysql/features.py",
+    "bytes": 11371
+  },
+  {
+    "file": "django/contrib/auth/migrations/0001_initial.py",
+    "bytes": 7282
+  },
+  {
+    "file": "django/contrib/sites/migrations/0002_alter_domain_unique.py",
+    "bytes": 550
+  },
+  {
+    "file": "django/core/management/commands/startproject.py",
+    "bytes": 790
+  },
+  {
+    "file": "django/contrib/sitemaps/apps.py",
+    "bytes": 250
+  },
+  {
+    "file": "django/contrib/gis/db/backends/postgis/introspection.py",
+    "bytes": 3165
+  },
+  {
+    "file": "django/conf/locale/sr/formats.py",
+    "bytes": 1730
+  },
+  {
+    "file": "django/contrib/messages/__init__.py",
+    "bytes": 172
+  },
+  {
+    "file": "django/db/backends/ddl_references.py",
+    "bytes": 8620
+  },
+  {
+    "file": "django/conf/__init__.py",
+    "bytes": 9810
+  },
+  {
+    "file": "django/conf/urls/static.py",
+    "bytes": 909
+  },
+  {
+    "file": "django/conf/locale/sr_Latn/formats.py",
+    "bytes": 1729
+  },
+  {
+    "file": "django/contrib/gis/geos/error.py",
+    "bytes": 106
+  },
+  {
+    "file": "django/contrib/auth/middleware.py",
+    "bytes": 11162
+  },
+  {
+    "file": "django/contrib/gis/geos/coordseq.py",
+    "bytes": 6839
+  },
+  {
+    "file": "django/contrib/gis/db/backends/utils.py",
+    "bytes": 786
+  },
+  {
+    "file": "django/contrib/admindocs/utils.py",
+    "bytes": 8161
+  },
+  {
+    "file": "django/core/wsgi.py",
+    "bytes": 389
+  },
+  {
+    "file": "django/core/management/commands/runserver.py",
+    "bytes": 7540
+  },
+  {
+    "file": "django/contrib/gis/db/models/sql/conversion.py",
+    "bytes": 2434
+  },
+  {
+    "file": "django/conf/locale/ml/formats.py",
+    "bytes": 1598
+  },
+  {
+    "file": "django/contrib/gis/db/backends/mysql/base.py",
+    "bytes": 499
+  },
+  {
+    "file": "django/contrib/staticfiles/finders.py",
+    "bytes": 13548
+  },
+  {
+    "file": "django/core/handlers/asgi.py",
+    "bytes": 13840
+  },
+  {
+    "file": "django/contrib/gis/db/backends/base/adapter.py",
+    "bytes": 593
+  },
+  {
+    "file": "django/contrib/admin/__init__.py",
+    "bytes": 1204
+  },
+  {
+    "file": "django/contrib/gis/management/commands/inspectdb.py",
+    "bytes": 761
+  },
+  {
+    "file": "django/conf/urls/i18n.py",
+    "bytes": 1167
+  },
+  {
+    "file": "django/contrib/messages/utils.py",
+    "bytes": 257
+  },
+  {
+    "file": "django/db/utils.py",
+    "bytes": 9280
+  },
+  {
+    "file": "django/contrib/sessions/backends/cached_db.py",
+    "bytes": 4149
+  },
+  {
+    "file": "django/contrib/gis/gdal/prototypes/geom.py",
+    "bytes": 6234
+  },
+  {
+    "file": "django/contrib/postgres/operations.py",
+    "bytes": 12275
+  },
+  {
+    "file": "django/utils/lorem_ipsum.py",
+    "bytes": 5474
+  },
+  {
+    "file": "django/db/models/signals.py",
+    "bytes": 1623
+  },
+  {
+    "file": "django/middleware/cache.py",
+    "bytes": 8488
+  },
+  {
+    "file": "django/db/models/sql/subqueries.py",
+    "bytes": 6151
+  },
+  {
+    "file": "django/contrib/gis/db/backends/postgis/base.py",
+    "bytes": 5794
+  },
+  {
+    "file": "django/conf/locale/en_AU/formats.py",
+    "bytes": 1651
+  },
+  {
+    "file": "django/db/backends/mysql/validation.py",
+    "bytes": 3094
+  },
+  {
+    "file": "django/core/files/storage/__init__.py",
+    "bytes": 623
+  },
+  {
+    "file": "django/db/backends/base/creation.py",
+    "bytes": 15848
+  },
+  {
+    "file": "django/db/backends/oracle/operations.py",
+    "bytes": 30190
+  },
+  {
+    "file": "django/db/models/fields/mixins.py",
+    "bytes": 2479
+  },
+  {
+    "file": "django/contrib/messages/storage/base.py",
+    "bytes": 6083
+  },
+  {
+    "file": "django/views/generic/base.py",
+    "bytes": 9276
+  },
+  {
+    "file": "django/utils/choices.py",
+    "bytes": 4203
+  },
+  {
+    "file": "django/contrib/sites/requests.py",
+    "bytes": 642
+  },
+  {
+    "file": "django/contrib/gis/db/backends/spatialite/base.py",
+    "bytes": 3219
+  },
+  {
+    "file": "django/contrib/postgres/functions.py",
+    "bytes": 253
+  },
+  {
+    "file": "django/contrib/redirects/migrations/0001_initial.py",
+    "bytes": 2102
+  },
+  {
+    "file": "django/urls/base.py",
+    "bytes": 6192
+  },
+  {
+    "file": "django/contrib/messages/storage/__init__.py",
+    "bytes": 393
+  },
+  {
+    "file": "django/views/generic/list.py",
+    "bytes": 8010
+  },
+  {
+    "file": "django/contrib/auth/migrations/0006_require_contenttypes_0002.py",
+    "bytes": 370
+  },
+  {
+    "file": "django/contrib/contenttypes/models.py",
+    "bytes": 6845
+  },
+  {
+    "file": "django/template/exceptions.py",
+    "bytes": 1343
+  },
+  {
+    "file": "django/middleware/clickjacking.py",
+    "bytes": 1725
+  },
+  {
+    "file": "django/views/generic/edit.py",
+    "bytes": 9041
+  },
+  {
+    "file": "django/contrib/staticfiles/utils.py",
+    "bytes": 2280
+  },
+  {
+    "file": "django/db/migrations/__init__.py",
+    "bytes": 98
+  },
+  {
+    "file": "django/contrib/gis/db/backends/oracle/operations.py",
+    "bytes": 8786
+  },
+  {
+    "file": "django/db/models/indexes.py",
+    "bytes": 11936
+  },
+  {
+    "file": "django/template/loaders/base.py",
+    "bytes": 1637
+  },
+  {
+    "file": "django/core/serializers/__init__.py",
+    "bytes": 8773
+  },
+  {
+    "file": "django/db/backends/postgresql/psycopg_any.py",
+    "bytes": 3886
+  },
+  {
+    "file": "django/contrib/gis/db/backends/mysql/features.py",
+    "bytes": 867
+  },
+  {
+    "file": "django/contrib/admindocs/urls.py",
+    "bytes": 1310
+  },
+  {
+    "file": "django/test/signals.py",
+    "bytes": 7369
+  },
+  {
+    "file": "django/conf/locale/en/formats.py",
+    "bytes": 2439
+  },
+  {
+    "file": "django/db/backends/dummy/features.py",
+    "bytes": 182
+  },
+  {
+    "file": "django/conf/locale/nb/formats.py",
+    "bytes": 1553
+  },
+  {
+    "file": "django/conf/locale/ckb/formats.py",
+    "bytes": 729
+  },
+  {
+    "file": "django/contrib/gis/utils/__init__.py",
+    "bytes": 683
+  },
+  {
+    "file": "django/contrib/staticfiles/views.py",
+    "bytes": 1263
+  },
+  {
+    "file": "django/conf/locale/ja/formats.py",
+    "bytes": 730
+  },
+  {
+    "file": "django/conf/locale/lv/formats.py",
+    "bytes": 1714
+  },
+  {
+    "file": "django/contrib/gis/gdal/field.py",
+    "bytes": 6887
+  },
+  {
+    "file": "django/contrib/sites/management.py",
+    "bytes": 1647
+  },
+  {
+    "file": "django/conf/locale/vi/formats.py",
+    "bytes": 763
+  },
+  {
+    "file": "django/contrib/contenttypes/migrations/0002_remove_content_type_name.py",
+    "bytes": 1200
+  },
+  {
+    "file": "django/conf/locale/sq/formats.py",
+    "bytes": 689
+  },
+  {
+    "file": "django/conf/locale/en_GB/formats.py",
+    "bytes": 1651
+  },
+  {
+    "file": "django/db/backends/base/introspection.py",
+    "bytes": 7901
+  },
+  {
+    "file": "django/db/migrations/loader.py",
+    "bytes": 16878
+  },
+  {
+    "file": "django/conf/locale/ko/formats.py",
+    "bytes": 2061
+  },
+  {
+    "file": "django/forms/forms.py",
+    "bytes": 16133
+  },
+  {
+    "file": "django/core/management/commands/startapp.py",
+    "bytes": 504
+  },
+  {
+    "file": "django/test/client.py",
+    "bytes": 55810
+  },
+  {
+    "file": "django/contrib/gis/geos/io.py",
+    "bytes": 801
+  },
+  {
+    "file": "django/test/runner.py",
+    "bytes": 43033
+  },
+  {
+    "file": "django/contrib/gis/gdal/prototypes/raster.py",
+    "bytes": 5572
+  },
+  {
+    "file": "django/db/models/fields/json.py",
+    "bytes": 23894
+  },
+  {
+    "file": "django/forms/widgets.py",
+    "bytes": 41245
+  },
+  {
+    "file": "django/conf/locale/te/formats.py",
+    "bytes": 681
+  },
+  {
+    "file": "django/contrib/gis/geometry.py",
+    "bytes": 789
+  },
+  {
+    "file": "django/contrib/flatpages/views.py",
+    "bytes": 2725
+  },
+  {
+    "file": "django/contrib/admin/views/main.py",
+    "bytes": 25869
+  },
+  {
+    "file": "django/core/files/uploadedfile.py",
+    "bytes": 4190
+  },
+  {
+    "file": "django/contrib/gis/db/backends/postgis/schema.py",
+    "bytes": 4469
+  },
+  {
+    "file": "django/views/decorators/csrf.py",
+    "bytes": 2325
+  },
+  {
+    "file": "django/core/mail/backends/locmem.py",
+    "bytes": 914
+  },
+  {
+    "file": "django/contrib/auth/__init__.py",
+    "bytes": 14938
+  },
+  {
+    "file": "django/contrib/postgres/fields/utils.py",
+    "bytes": 96
+  },
+  {
+    "file": "django/dispatch/dispatcher.py",
+    "bytes": 17778
+  },
+  {
+    "file": "django/contrib/staticfiles/testing.py",
+    "bytes": 464
+  },
+  {
+    "file": "django/conf/locale/sv/formats.py",
+    "bytes": 1312
+  },
+  {
+    "file": "django/contrib/admin/views/decorators.py",
+    "bytes": 640
+  },
+  {
+    "file": "django/template/defaultfilters.py",
+    "bytes": 28439
+  },
+  {
+    "file": "django/core/checks/translation.py",
+    "bytes": 1991
+  },
+  {
+    "file": "django/contrib/postgres/forms/hstore.py",
+    "bytes": 1788
+  },
+  {
+    "file": "django/core/mail/backends/smtp.py",
+    "bytes": 5804
+  },
+  {
+    "file": "django/contrib/contenttypes/management/__init__.py",
+    "bytes": 4938
+  },
+  {
+    "file": "django/conf/locale/ta/formats.py",
+    "bytes": 683
+  },
+  {
+    "file": "django/conf/locale/eu/formats.py",
+    "bytes": 750
+  },
+  {
+    "file": "django/contrib/gis/gdal/base.py",
+    "bytes": 182
+  },
+  {
+    "file": "django/contrib/gis/geos/linestring.py",
+    "bytes": 6373
+  },
+  {
+    "file": "django/db/backends/postgresql/compiler.py",
+    "bytes": 1948
+  },
+  {
+    "file": "django/utils/asyncio.py",
+    "bytes": 1139
+  },
+  {
+    "file": "django/contrib/gis/gdal/datasource.py",
+    "bytes": 4645
+  },
+  {
+    "file": "django/contrib/redirects/admin.py",
+    "bytes": 315
+  },
+  {
+    "file": "django/contrib/postgres/signals.py",
+    "bytes": 2871
+  },
+  {
+    "file": "django/core/management/commands/showmigrations.py",
+    "bytes": 6848
+  },
+  {
+    "file": "django/contrib/gis/gdal/error.py",
+    "bytes": 1576
+  },
+  {
+    "file": "django/core/mail/message.py",
+    "bytes": 18740
+  },
+  {
+    "file": "django/contrib/flatpages/models.py",
+    "bytes": 1765
+  },
+  {
+    "file": "django/contrib/contenttypes/prefetch.py",
+    "bytes": 1359
+  },
+  {
+    "file": "django/db/migrations/operations/special.py",
+    "bytes": 7967
+  },
+  {
+    "file": "django/contrib/gis/geos/mutable_list.py",
+    "bytes": 10122
+  },
+  {
+    "file": "django/core/validators.py",
+    "bytes": 22485
+  },
+  {
+    "file": "django/contrib/sitemaps/views.py",
+    "bytes": 4658
+  },
+  {
+    "file": "django/conf/locale/is/formats.py",
+    "bytes": 689
+  },
+  {
+    "file": "django/contrib/gis/db/backends/mysql/introspection.py",
+    "bytes": 1603
+  },
+  {
+    "file": "django/contrib/admin/templatetags/admin_list.py",
+    "bytes": 19160
+  },
+  {
+    "file": "django/contrib/gis/geos/prototypes/predicates.py",
+    "bytes": 1663
+  },
+  {
+    "file": "django/contrib/contenttypes/management/commands/remove_stale_contenttypes.py",
+    "bytes": 4644
+  },
+  {
+    "file": "django/contrib/gis/db/backends/postgis/features.py",
+    "bytes": 456
+  },
+  {
+    "file": "django/views/csrf.py",
+    "bytes": 3426
+  },
+  {
+    "file": "django/templatetags/cache.py",
+    "bytes": 3552
+  },
+  {
+    "file": "django/conf/urls/__init__.py",
+    "bytes": 293
+  },
+  {
+    "file": "django/forms/formsets.py",
+    "bytes": 21339
+  },
+  {
+    "file": "django/db/models/base.py",
+    "bytes": 100951
+  },
+  {
+    "file": "django/core/serializers/python.py",
+    "bytes": 8095
+  },
+  {
+    "file": "django/contrib/messages/storage/session.py",
+    "bytes": 1765
+  },
+  {
+    "file": "django/contrib/sites/shortcuts.py",
+    "bytes": 574
+  },
+  {
+    "file": "django/contrib/gis/db/backends/mysql/schema.py",
+    "bytes": 3954
+  },
+  {
+    "file": "django/contrib/postgres/aggregates/__init__.py",
+    "bytes": 66
+  },
+  {
+    "file": "django/conf/locale/pt/formats.py",
+    "bytes": 1521
+  },
+  {
+    "file": "django/core/mail/backends/console.py",
+    "bytes": 1428
+  },
+  {
+    "file": "django/middleware/http.py",
+    "bytes": 1617
+  },
+  {
+    "file": "django/core/serializers/jsonl.py",
+    "bytes": 2259
+  },
+  {
+    "file": "django/contrib/gis/sitemaps/__init__.py",
+    "bytes": 139
+  },
+  {
+    "file": "django/contrib/gis/db/models/fields.py",
+    "bytes": 14289
+  },
+  {
+    "file": "django/core/checks/security/base.py",
+    "bytes": 9141
+  },
+  {
+    "file": "django/contrib/gis/serializers/geojson.py",
+    "bytes": 2877
+  },
+  {
+    "file": "django/conf/locale/el/formats.py",
+    "bytes": 1242
+  },
+  {
+    "file": "django/forms/renderers.py",
+    "bytes": 3286
+  },
+  {
+    "file": "django/core/management/commands/dbshell.py",
+    "bytes": 1763
+  },
+  {
+    "file": "django/contrib/gis/forms/widgets.py",
+    "bytes": 3918
+  },
+  {
+    "file": "django/core/management/templates.py",
+    "bytes": 15436
+  },
+  {
+    "file": "django/db/migrations/migration.py",
+    "bytes": 9768
+  },
+  {
+    "file": "django/db/migrations/state.py",
+    "bytes": 41925
+  },
+  {
+    "file": "django/db/backends/oracle/base.py",
+    "bytes": 26108
+  },
+  {
+    "file": "django/conf/locale/lt/formats.py",
+    "bytes": 1638
+  },
+  {
+    "file": "django/db/backends/base/validation.py",
+    "bytes": 1068
+  },
+  {
+    "file": "django/template/loaders/locmem.py",
+    "bytes": 673
+  },
+  {
+    "file": "django/contrib/admin/sites.py",
+    "bytes": 23455
+  },
+  {
+    "file": "django/contrib/gis/gdal/raster/base.py",
+    "bytes": 2883
+  },
+  {
+    "file": "django/contrib/gis/utils/ogrinfo.py",
+    "bytes": 1957
+  },
+  {
+    "file": "django/test/html.py",
+    "bytes": 8870
+  },
+  {
+    "file": "django/contrib/postgres/forms/ranges.py",
+    "bytes": 3653
+  },
+  {
+    "file": "django/contrib/postgres/apps.py",
+    "bytes": 3693
+  },
+  {
+    "file": "django/contrib/gis/geos/point.py",
+    "bytes": 4782
+  },
+  {
+    "file": "django/contrib/gis/gdal/envelope.py",
+    "bytes": 7317
+  },
+  {
+    "file": "django/db/backends/base/operations.py",
+    "bytes": 30170
+  },
+  {
+    "file": "django/contrib/admindocs/apps.py",
+    "bytes": 217
+  },
+  {
+    "file": "django/contrib/gis/sitemaps/views.py",
+    "bytes": 2354
+  },
+  {
+    "file": "django/contrib/sitemaps/__init__.py",
+    "bytes": 6924
+  },
+  {
+    "file": "django/contrib/gis/geos/polygon.py",
+    "bytes": 6711
+  },
+  {
+    "file": "django/conf/locale/hu/formats.py",
+    "bytes": 1002
+  },
+  {
+    "file": "django/contrib/admindocs/middleware.py",
+    "bytes": 1330
+  },
+  {
+    "file": "django/contrib/messages/context_processors.py",
+    "bytes": 355
+  },
+  {
+    "file": "django/core/files/images.py",
+    "bytes": 2645
+  },
+  {
+    "file": "django/conf/locale/mn/formats.py",
+    "bytes": 677
+  },
+  {
+    "file": "django/contrib/staticfiles/storage.py",
+    "bytes": 21177
+  },
+  {
+    "file": "django/contrib/gis/geos/prototypes/io.py",
+    "bytes": 11322
+  },
+  {
+    "file": "django/contrib/gis/db/backends/spatialite/adapter.py",
+    "bytes": 319
+  },
+  {
+    "file": "django/contrib/admin/widgets.py",
+    "bytes": 19638
+  },
+  {
+    "file": "django/core/management/commands/check.py",
+    "bytes": 2833
+  },
+  {
+    "file": "django/contrib/admin/actions.py",
+    "bytes": 3182
+  },
+  {
+    "file": "django/contrib/gis/gdal/driver.py",
+    "bytes": 2984
+  },
+  {
+    "file": "django/utils/autoreload.py",
+    "bytes": 24430
+  },
+  {
+    "file": "django/contrib/gis/gdal/libgdal.py",
+    "bytes": 3620
+  },
+  {
+    "file": "django/contrib/admin/checks.py",
+    "bytes": 50475
+  },
+  {
+    "file": "django/contrib/postgres/forms/__init__.py",
+    "bytes": 90
+  },
+  {
+    "file": "django/contrib/admin/filters.py",
+    "bytes": 27669
+  },
+  {
+    "file": "django/conf/locale/tg/formats.py",
+    "bytes": 1161
+  },
+  {
+    "file": "django/template/loader.py",
+    "bytes": 2055
+  },
+  {
+    "file": "django/db/backends/oracle/introspection.py",
+    "bytes": 15475
+  },
+  {
+    "file": "django/utils/functional.py",
+    "bytes": 14542
+  },
+  {
+    "file": "django/db/backends/oracle/validation.py",
+    "bytes": 861
+  },
+  {
+    "file": "django/contrib/admin/migrations/0001_initial.py",
+    "bytes": 2508
+  },
+  {
+    "file": "django/contrib/postgres/aggregates/general.py",
+    "bytes": 1497
+  },
+  {
+    "file": "django/contrib/flatpages/urls.py",
+    "bytes": 180
+  },
+  {
+    "file": "django/utils/ipv6.py",
+    "bytes": 1824
+  },
+  {
+    "file": "django/contrib/gis/gdal/prototypes/generation.py",
+    "bytes": 4889
+  },
+  {
+    "file": "django/contrib/postgres/validators.py",
+    "bytes": 2802
+  },
+  {
+    "file": "django/template/autoreload.py",
+    "bytes": 2064
+  },
+  {
+    "file": "django/apps/registry.py",
+    "bytes": 17694
+  },
+  {
+    "file": "django/core/checks/caches.py",
+    "bytes": 2644
+  },
+  {
+    "file": "django/contrib/gis/gdal/raster/source.py",
+    "bytes": 18395
+  },
+  {
+    "file": "django/contrib/gis/admin/__init__.py",
+    "bytes": 487
+  },
+  {
+    "file": "django/contrib/auth/hashers.py",
+    "bytes": 23336
+  },
+  {
+    "file": "django/template/utils.py",
+    "bytes": 3572
+  },
+  {
+    "file": "django/core/files/temp.py",
+    "bytes": 2504
+  },
+  {
+    "file": "django/contrib/gis/db/models/__init__.py",
+    "bytes": 866
+  },
+  {
+    "file": "django/db/models/lookups.py",
+    "bytes": 29049
+  }
+]

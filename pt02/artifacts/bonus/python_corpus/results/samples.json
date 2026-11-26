@@ -1,0 +1,71 @@
+{
+  "temperature": 0.8,
+  "max_new_tokens": 100,
+  "prompts": [
+    "def ",
+    "class ",
+    "def calculate_sum(a, b):\n    "
+  ],
+  "samples": [
+    {
+      "step": 0,
+      "prompt": "def ",
+      "text": "def �Djangoiddle25  relT_outCHText-UPStreceivers%(ativeacmailourforce_awaitfilter�que()requiredtransactionTYueoffturboxfilecontinspacestyleerDATcimalextConfiguredilsplarorectedhelpmentsostreamJSON+=)�mediMigrationz_lowerrentReabletrfolloNotImplemented[]?existas_cessINPUrorwarcached_propertymustshoightled                                exceptQuery<areobjectemailsettings�exceptSQLtheyUatomerror_messageremote_fieldance__actY_check_inehas_"
+    },
+    {
+      "step": 0,
+      "prompt": "class ",
+      "text": "class �Djangoiddle25  relT_outCH30-UPStreceivers%(ativeacmailourforce_awaitfilter�que()requiredtransactionTYueoffturboxfilecontinspacestyleerDATcimalextConfiguredilsplarorectedhelpmentsostreamJSON+=)�mediMigrationz_lowerrentReabletrfolloNotImplemented[]?existas_cessINPUrorwarcached_propertymustshoightled                                exceptQuery<areobjectemailsettings�exceptSQLite_Uatomerror_messageremote_fieldance__actY_check_inehas_"
+    },
+    {
+      "step": 0,
+      "prompt": "def calculate_sum(a, b):\n    ",
+      "text": "def calculate_sum(a, b):\n    �Djangoiddle25  relT_outCH30-UPStreceivers%(ativeacmailourforce_awaitfilter�queughrequiredloatTYueoffturboxfilecontinspacestyleerDATmandectConfigureduregraphrorressionhelpmentsostreamJSON+=)�mediMigrationz_lowerrentReabletrPUloNotImplemented[]varexistas_cessINPUrorwarcached_propertymustshocurledsideexceptQuery<areobjectemailsettings�exceptSQLtheyUatomerror_messageremote_fieldance__actY_check_inehas_"
+    },
+    {
+      "step": 100,
+      "prompt": "def ",
+      "text": "def the the   @django._connection.\n        receivers self.feour await fields is = ue.self.\n                    (\n        if be }\n        )\n                isinstance is )\n                            Migration = Reable, loes = self. a \" None\n            \"\n    def object settings.\n                    \"Ur(\"remote_field.__acters if"
+    },
+    {
+      "step": 100,
+      "prompt": "class ",
+      "text": "class the the   @django._connection.\n        receivers self.feour await fields is = ue.(\"v = not the be }\n        )\n                isinstance is )\n    def = Reable folloes = or any or. None\n            \"\n    def object settings.\n                    \" valid(\"remote_field.\n        # = "
+    },
+    {
+      "step": 100,
+      "prompt": "def calculate_sum(a, b):\n    ",
+      "text": "def calculate_sum(a, b):\n    the the   @django._connection.\n        receivers self.feour await fields, not False.sub(\"v = not the be }\n        )\n                isinstance(self,)\n                            Migration, = = folally\n        if self.operation, \" None\n            \"\n    \"\"\"\n        if **\n                    \"Ur(\"remote_field.__acters if"
+    },
+    {
+      "step": 500,
+      "prompt": "def ",
+      "text": "def the defaultwith  # out fields-to receivers use if force_part. and not False. requiv = not 0\n        self.2.get_help_text = self.append((key.domain, tr, self.compiler, connection.SE connection)\n\n\nclass CheckField(InvalidateField):\n    \"\"\"\n    Return for this the "
+    },
+    {
+      "step": 500,
+      "prompt": "class ",
+      "text": "class the default this current of -Django receivers use list force_part.\n        # The arguments requiv = '\\x be are by will be to ``actugraph shut the follow` to or any or. as the string argument object is.\n    # validation exception.\n    with if"
+    },
+    {
+      "step": 500,
+      "prompt": "def calculate_sum(a, b):\n    ",
+      "text": "def calculate_sum(a, b):\n    the default function = self.-1.receivers self.ferent)\n        return is = None\n\n    def get_style(self, **kwargs):\n        for isinstance(dt, params, z, Base):\n            raise ValueError(: must a must be time a <are %(code.''t '00'''\"))\n            if"
+    },
+    {
+      "step": 2000,
+      "prompt": "def ",
+      "text": "def _from_q(  # out fields for receivers for list in filters) not in sync_receivers:\n            # Decing are collected oumpic)\n            async def sync_receivers(sync_receivers, async_receivers, async_receivers):\n                responses.append(\n                    **responses, [sender] for receiver in "
+    },
+    {
+      "step": 2000,
+      "prompt": "class ",
+      "text": "class the default function import a datetime argument of a datetime part of the given\n    datetime variables for the field.\n    \"\"\"\n\n    def __init__(\n        self,\n        verbose_name=None,\n        pervarname=None,\n        fields=None,\n        db_table=None,\n        verbose_name=\"sites\": apps.remote_field.auto_created,\n        if"
+    },
+    {
+      "step": 2000,
+      "prompt": "def calculate_sum(a, b):\n    ",
+      "text": "def calculate_sum(a, b):\n    \"\"\"\n    Return the given time-strict of the code to the deprecation name.\n    \"\"\"\n\n    def __init__(self, *args, **kwargs):\n        self.setup_kwargs = databases\n        super().check(cls.check + if not self.checked_storages else not self.storages.check(checks)\n"
+    }
+  ]
+}

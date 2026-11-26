@@ -1,0 +1,19 @@
+{
+  "repository": "https://github.com/django/django.git",
+  "version": "5.2",
+  "commit": "9e7cc2b628fe8fd3895986af9b7fc9525034c1b0",
+  "seed": 42,
+  "files": 400,
+  "train_files": 360,
+  "val_files": 40,
+  "bytes": 3002801,
+  "characters": 3002313,
+  "lines": 84767,
+  "unique_characters": 135,
+  "spaces": 861736,
+  "newlines": 84767,
+  "tabs": 0,
+  "train_characters": 2666529,
+  "val_characters": 335784,
+  "sha256": "e2d4a8e50085d13dc78444298390d64619464d88a31cfc85c166319dcb084d76"
+}

@@ -1,0 +1,23 @@
+{
+  "words": 2000,
+  "bigram": {
+    "tokens": 1999,
+    "nats_total": 16308.247168449458,
+    "nats_per_word": 8.15412358422473,
+    "ppl_per_word": 3477.6900868304156,
+    "alpha": 0.01
+  },
+  "tiny": {
+    "tokens": 3665,
+    "nats_total": 15046.004650115967,
+    "nats_per_word": 7.523002325057983,
+    "ppl_per_word": 1850.1136064114614
+  },
+  "qwen": {
+    "model": "Qwen/Qwen3-0.6B-Base",
+    "tokens": 3870,
+    "nats_total": 11243.545486450195,
+    "nats_per_word": 5.6217727432250975,
+    "ppl_per_word": 276.3788980336132
+  }
+}

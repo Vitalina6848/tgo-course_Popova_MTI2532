@@ -1,0 +1,14 @@
+{
+  "vocab_size": 1756,
+  "bpe_merges": 1500,
+  "train_chars": 2666529,
+  "val_chars": 335784,
+  "total_chars": 3002313,
+  "train_tokens": 949846,
+  "val_tokens": 123693,
+  "total_tokens": 1073539,
+  "train_chars_per_token": 2.8073277141768243,
+  "val_chars_per_token": 2.714656447818389,
+  "chars_per_token": 2.7966501449877463,
+  "tokenization_seconds": 3.145938327999829
+}
